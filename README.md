@@ -2,7 +2,7 @@
 
 WeSpeak is a project that aims to bridge the current communication gap faced by speech-impaired people by interpreting Indian Sign Language (ISL) in real-time using machine learning and image processing.
 
-This project was the winner of the PCCE "IDEAS 2024" competition, where it secured first place among 30+ other projects. It is one of the few projects to be selected by CIBA (Centre for Incubation & Business Acceleration) to be taken to the next level and is now being further developed and expanded upon in CIBA.
+This project was the winner of the PCCE "IDEAS 2024" competition, where it secured first place from 30+ other projects. It is one of the few projects to be selected by CIBA (Centre for Incubation & Business Acceleration) to be taken to the next level and is now being further developed and expanded upon in CIBA.
 
 ## Key Features
 
