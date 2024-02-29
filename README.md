@@ -1,3 +1,5 @@
+##WeSpeak
+
 WeSpeak is a project that aims to bridge the current communication gap faced by speach-impared people by interpreting Indian Sign Language (ISL) in real-time using machine learning and image processing.
 
 This project was the winner of the PCCE "IDEAS 2024" competition, where it secured First place among 30+ other projects. 
