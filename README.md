@@ -20,8 +20,8 @@ It is one of the few projects to be selected by CIBA (Centre for Incubation & Bu
 - **Leander Fernandes:**
 Primary back-end developer and Tech Lead. He made critical architectural decisions, and offered insightful suggestions that shaped the direction of the project. His leadership and technical prowess were instrumental in driving the project forward.
 
-- **Roshan Rizvi :**
+- **Roshan Rizvi:**
 Primary front-end developer and back-end infrastructure and integration architect. His focus on creating an intuitive frontend interface and his contributions to creating the backend infrastructure and integrating all the components together were essential to the project's success. 
 
-- **Maithily Naik :**
+- **Maithily Naik:**
 Maithily provided valuable contributions to the WeSpeak project, offering support in coding tasks, training the models during the development stages, and assisting in various aspects throughout the development of the project are irreplacable!
