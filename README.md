@@ -16,11 +16,14 @@ This project was the winner of the PCCE "IDEAS 2024" competition, where it secur
 - **Snake Game with Gesture Control:** To show how quick and responsive our hand tracking technology is, WeSpeak includes a fun snake game that uses hands-free image processing technology to control the snake on the screen, making it an interactive and enjoyable experience.
 
 ## Team Members
-- **Leander Fernandes:**
-Primary back-end developer and Tech Lead. He made critical architectural decisions and offered insightful suggestions that shaped the direction of the project. His leadership and technical prowess were instrumental in driving the project forward.
 
 - **Roshan Rizvi:**
 Primary front-end developer and back-end infrastructure and integration architect. His focus on creating an intuitive frontend interface and his contributions to creating the backend infrastructure and integrating all the components together were essential to the project's success. 
+
+
+- **Leander Fernandes:**
+Primary back-end developer and Tech Lead. He made critical architectural decisions and offered insightful suggestions that shaped the direction of the project. His leadership and technical prowess were instrumental in driving the project forward.
+
 
 - **Maithily Naik:**
 Maithily provided valuable contributions to the WeSpeak project, offering support in coding tasks, training the models during the development stages, and assisting in various aspects throughout the development of the project. Her contributions are irreplaceable!
